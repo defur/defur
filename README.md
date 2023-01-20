@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/gifs/blue-screen-gU25raLP4pUu4/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=ecf05e47ouamb3k4sgxlttol6d4e4ope4okoaj40004iwfbj&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
