@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 I am a IT student from Ukreine.:blue_square::yellow_square:
 <img src="https://media3.giphy.com/media/ulZ7gQQz9jwZzv224n/giphy.gif?cid=790b76115ea1143c297f6a6496cd0c52b6722242ee422435&rid=giphy.gif&ct=ts" width="30">
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
