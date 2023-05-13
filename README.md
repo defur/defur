@@ -60,7 +60,7 @@ I am a IT student from Ukreine.:blue_square::yellow_square:
 - Ukrainian C2 
 - Russian С2 
 - English B2 
-- Deutsch B1 
+- German B1 
 
 ---
 
