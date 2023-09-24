@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="25" height="23">
+### Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="25" height="24">
 
 <!--
 **defur/defur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
