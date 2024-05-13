@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there)](https://git.io/typing-svg)-->
-I am a IT student from Ukreine.:blue_square::yellow_square:
+I am a IT student from Ukreine. :blue_square: :yellow_square:
 <img src="https://media3.giphy.com/media/ulZ7gQQz9jwZzv224n/giphy.gif?cid=790b76115ea1143c297f6a6496cd0c52b6722242ee422435&rid=giphy.gif&ct=ts" width="30">
 
 
