@@ -58,7 +58,6 @@ I am a IT student from Ukreine. :blue_square: :yellow_square:
 
 ### :earth_africa: Also Languages :
 - Ukrainian C2 
-- Russian С2 
 - English B2 
 - German B1 
 
